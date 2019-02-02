@@ -37,6 +37,4 @@ If this table is not legible, please view on GitHub or install the [gfm plugin][
 |     +1 | No extraneous code                                                   |
 |     +1 | Code compiles correctly                                              |
 |     +1 | Program executes as directed                                         |
-|     +1 | Program turned in through GitHub Classroom                                         |
-
-[https://plugins.jetbrains.com/plugin/7701-gfm]: https://plugins.jetbrains.com/plugin/7701-gfm
+|     +1 | Program turned in through GitHub Classroom                           |
