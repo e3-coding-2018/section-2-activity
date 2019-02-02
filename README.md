@@ -23,7 +23,7 @@ If you need a refresher on how to work with variables or how to use the input an
 ## Rubric
 Your activity will be graded according to the following:
 
-If this table is not legible, please view on GitHub or install the [gfm plugin][https://plugins.jetbrains.com/plugin/7701-gfm].
+If this table is not legible, please view on GitHub or install the [gfm plugin](https://plugins.jetbrains.com/plugin/7701-gfm).
 
 | Rubric | 10 possible points                                                   |
 | ------ |------|
